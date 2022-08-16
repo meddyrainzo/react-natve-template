@@ -1,0 +1,8 @@
+{
+  "name": "meddy-react-native-template",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "https://github.com/meddyrainzo/react-natve-template.git",
+  "author": "Emediong Akpan <meddyakpan@outlook.com>",
+  "license": "MIT"
+}
